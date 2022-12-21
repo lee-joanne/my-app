@@ -1,0 +1,10 @@
+.Image {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.ImageSection {
+    height: 88vh;
+}

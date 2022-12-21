@@ -1,0 +1,18 @@
+.NavBar {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    font-family: 'Cardo', serif;
+}
+
+.LinkFont {
+    color: black;
+}
+
+.LinkFont:hover, .Active:hover{
+    text-decoration: none !important;
+    color: #454545 !important;
+}
+
+.Active {
+    color: #90ADBB !important;
+    font-family: 'Cardo', serif;
+}

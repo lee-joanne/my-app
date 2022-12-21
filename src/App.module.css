@@ -1,0 +1,15 @@
+.Main {
+    padding-top: 85px;
+}
+
+.App {
+    min-height: 100vh;
+}
+
+h1, h2 {
+    font-family: 'Cardo', serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}

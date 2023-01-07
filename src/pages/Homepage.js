@@ -6,7 +6,7 @@ import Container from  "react-bootstrap/Container";
 
 const Homepage = () => {
   return (
-    <Container>
+    <Container className={styles.ContainerAnimation}>
             <div className={`text-center d-flex align-items-center justify-content-center ${styles.ImageSection}`}>
                 <h1 className="mr-4">Hello! My name is Joanne.</h1>
                 <Image className={styles.Image} src={myFace}/>

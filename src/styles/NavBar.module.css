@@ -4,7 +4,7 @@
 }
 
 .LinkFont {
-    color: black;
+    color: #90ADBB;
 }
 
 .LinkFont:hover, .Active:hover{
@@ -13,6 +13,6 @@
 }
 
 .Active {
-    color: #90ADBB !important;
+    color: black !important;
     font-family: 'Cardo', serif;
 }

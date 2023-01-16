@@ -6,10 +6,23 @@
 }
 
 .ImageSection {
-    height: 88vh;
+    height: 91vh;
 }
 
-.ContainerAnimation {
+.DivHeight {
+    height: 45vh;
+}
+
+.AboutLink {
+    color: #90ADBB;
+}
+
+.AboutLink:hover {
+    cursor:pointer;
+    color: black;
+}
+
+.RowAnimation {
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
